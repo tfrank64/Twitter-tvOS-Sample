@@ -1,2 +1,3 @@
 # Twitter-tvOS-Sample
-Sample tvOS app leveraging Twitter data, tutorial here: 
+
+This is a sample tvOS project demonstraing how to create an infinitly scrolling media wall of images from Twitter. Tutorial on how to do this can be found here -> 
